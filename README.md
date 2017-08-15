@@ -1,6 +1,6 @@
 # sample_app
 
-> learn
+> Vuex with fetahers sample reactive app
 
 ## Build Setup
 
